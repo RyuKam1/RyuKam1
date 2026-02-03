@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [AutoCap](https://github.com/RyuKam1/AutoCap)
 
-- 👨‍💻 Detailed information about me is available on [My portfolio Website](portfolio-website-hrnnqn0ys-ryukam1s-projects.vercel.app)
+- 👨‍💻 Detailed information about me is available on [My portfolio Website](https://portfolio-website-hrnnqn0ys-ryukam1s-projects.vercel.app)
 
 - 💬 Ask me about **Anything**
 
