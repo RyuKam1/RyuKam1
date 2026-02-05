@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Any of my projects](https://github.com/RyuKam1?tab=repositories)
 
-- 🤝 I’m looking for help with [AutoCap](https://github.com/RyuKam1/AutoCap)
+- 🤝 I’m looking for help with [Project Allstar](https://github.com/RyuKam1/Project-Allstar)
 
 - 👨‍💻 Detailed information about me is available on [My portfolio Website](https://portfolio-website-hrnnqn0ys-ryukam1s-projects.vercel.app)
 
